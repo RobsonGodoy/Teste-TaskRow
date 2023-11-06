@@ -1,0 +1,38 @@
+
+De quais formas você sabe utilizar CSS para estilizar suas páginas?
+- Utilizo CSS para estilizar páginas com os seletores, propriedades e valores para controlar o layout, fontes ,cores e etc.
+
+O que é um seletor CSS? Quais tipos de seletores você conhece?
+- Um seletor CSS é usado para selecionar elementos HTML a serem estilizados. Conheço seletores como: classe (.), id (#), tag, pseudo-classes, pseudo-elementos.
+
+O que faz este seletor: div > p?
+- O seletor "div > p" seleciona todos os elementos <p> que são filhos diretos de um elemento <div>.
+
+Qual a diferença entre: div > p, div p e div + p, se é que há alguma?
+    div > p" seleciona todos os elementos <p> que são filhos diretos de um elemento <div>.
+    "div p" seleciona todos os elementos <p> que estão aninhados dentro de um elemento <div>, não necessariamente filhos diretos.
+    "div + p" seleciona o primeiro elemento <p> que é imediatamente precedido por um elemento <div>.
+
+Quais valores você conhece para a propriedade display? Explique cada um deles.
+- Conheço valores como "block" (exibe em bloco), "flex"( utilizada para criar layouts flexíveis.), "inline-block" (exibe inline, mas com margens e preenchimento), "none" (esconde o elemento), entre outros.
+
+Quais valores você conhece para a propriedade position? Explique cada um deles.
+- Conheço valores como "static" (posição normal), "relative" (posição relativa ao seu posicionamento normal), "absolute" (posição em relação ao elemento pai), "fixed" (posição fixa na tela) e "sticky" (posição relativa até um ponto, depois fixa).
+
+Se um usuário acessa uma página de um computador e vê um título com uma fonte, e outro usuário visualiza esta mesma página em um outro computador, e vê o mesmo título com uma fonte diferente, o que pode ter acontecido? Como você resolveria este problema?
+- Isso pode acontecer se a fonte especificada não estiver disponível no segundo computador. Para resolver, eu usaria fontes da web (como Google Fonts) ou forneceria alternativas de fontes no CSS, garantindo uma experiência consistente.
+
+Qual a diferença entre font-size: 10px, font-size: 10em, font-size: 10rem e font-size: 10pt?
+- "font-size: 10px" define o tamanho da fonte em pixels.
+- "font-size: 10em" define o tamanho em relação ao tamanho da fonte do elemento pai.
+- "font-size: 10rem" define o tamanho em relação ao tamanho da fonte do elemento raiz.
+- "font-size: 10pt" define o tamanho em pontos, usado principalmente em impressão.
+
+De 1 a 5, diga quanto de cada um desses recursos você conhece:
+- Flex box: 5
+- CSS grid: 3
+- Variáveis CSS: 5
+- Viewport: 4
+
+Quais sites você utiliza para consultar documentação de CSS? E como saber quais browsers suportam quais recursos?
+- Costumo consultar MDN Web Docs e W3Schools para documentação de CSS. Para verificar o suporte dos navegadores, uso o site "Can I use" (caniuse.com) para encontrar informações detalhadas sobre compatibilidade de recursos em diferentes navegadores.

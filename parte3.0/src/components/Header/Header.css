@@ -1,0 +1,16 @@
+.Header {
+    background-color: rgb(157, 253, 253);
+    position: fixed;
+    top: 0;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.buttonnavigate{
+    font-size: 22px;
+    margin:0 15px;
+    background-color: transparent;
+}
