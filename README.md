@@ -18,19 +18,11 @@ Cada parte do teste foi concluída e organizada em pastas separadas.
 - `parte2`: Contém a implementação da Parte 2 do teste.
 - `parte3.0`: Contém a implementação da Parte 3, que é uma mini aplicação em React.
 
-## Instruções de Uso
-
-Para avaliar cada parte do teste, você pode navegar nas pastas correspondentes:
-
-- `parte1`: Instruções específicas e código relacionado à Parte 1.
-- `parte2`: Instruções específicas e código relacionado à Parte 2.
-- `parte3`: Instruções específicas e código da mini aplicação React.
-
 ## Como Executar a Aplicação (Parte 3)
 
 Se você desejar executar a mini aplicação React da Parte 3, siga estas etapas:
 
-1. Navegue para a pasta `parte3`.
+1. Navegue para a pasta `parte3.0`.
 2. Execute `npm install` para instalar as dependências.
 3. Execute `npm start` para iniciar a aplicação em um servidor de desenvolvimento.
 
@@ -38,9 +30,6 @@ Certifique-se de que você tenha o Node.js instalado em seu ambiente.
 
 ## Contato
 
-Se tiver alguma dúvida ou precisar de assistência para avaliar o meu teste, entre em contato pelo e-mail fornecido no convite.
+Se tiver alguma dúvida ou precisar de assistência para avaliar o meu teste, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/devrobsongodoy/).
 
 Obrigado por revisar o meu teste!
-
-
- 
