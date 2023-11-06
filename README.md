@@ -2,14 +2,6 @@
 
 Este repositório contém o teste para avaliar minhas habilidades em desenvolvimento web frontend, incluindo JavaScript / TypeScript, HTML, CSS e React.
 
-## Como Entregar
-
-O teste foi dividido em três partes, cada uma com sua pasta correspondente. Você pode encontrar os detalhes de cada parte nos links abaixo:
-
-- [Parte 1: JavaScript / TypeScript](parte1.md)
-- [Parte 2: HTML e CSS](parte2.md)
-- [Parte 3: Mini Aplicação com React](parte3.md)
-
 Cada parte do teste foi concluída e organizada em pastas separadas.
 
 ## Estrutura do Repositório
